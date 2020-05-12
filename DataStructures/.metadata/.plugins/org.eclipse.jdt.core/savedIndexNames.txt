@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\ankam\Desktop\ashish\ash_java\DataStructures\.metadata\.plugins\org.eclipse.jdt.core
